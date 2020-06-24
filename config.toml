@@ -7,11 +7,9 @@ theme = "wolfe"
   twitter = "https://twitter.com/wolfe_br"
   twitch = "https://twitch.tv/wolfe_br"
   discord = "https://discord.gg/egQaE2U"
+  github = "https://github.com/MatheusMK3/wolfe.wtf"
 
-  iconTitles = ["Twitter", "GitHub"]
-
-[params.colors]
-    fancy = "#211260"
+  iconTitles = ["Twitch", "Discord", "Twitter", "GitHub"]
 
 [[menu.main]]
     identifier = "about"
