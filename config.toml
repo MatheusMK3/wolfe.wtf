@@ -3,16 +3,6 @@ languageCode = "en-us"
 title = "Wolfe's Thoughts"
 theme = "wolfe"
 
-[module]
-
-  [[module.imports]]
-    disable = false
-    ignoreConfig = false
-    path = "github.com/gohugoio/hugoTestModules1_linux/modh1_2_1v"
-
-  [[module.imports]]
-    path = "my-shortcodes"
-
 [params]
   twitter = "https://twitter.com/wolfe_br"
   twitch = "https://twitch.tv/wolfe_br"
