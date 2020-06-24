@@ -1,0 +1,3 @@
+[submodule "themes/wolfe"]
+	path = themes/wolfe
+	url = https://github.com/MatheusMK3/hugo-theme-codex-wolfe

@@ -1,0 +1,26 @@
+baseURL = "https://wolfe.wtf/"
+languageCode = "en-us"
+title = "Wolfe's Thoughts"
+theme = "wolfe"
+
+[params]
+  twitter = "https://twitter.com/wolfe_br"
+  twitch = "https://twitch.tv/wolfe_br"
+  discord = "https://discord.gg/egQaE2U"
+
+  iconTitles = ["Twitter", "GitHub"]
+
+[params.colors]
+    fancy = "#211260"
+
+[[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/"
+
+[[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    title = "Blog"
+    url = "/blog"
